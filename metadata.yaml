@@ -1,0 +1,50 @@
+_repo: The-voice-of-the-void_73952
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wessolowski, Hans Waldemar
+    aliases:
+    - Wesso
+    - Wesso, H. W.
+    - Wesso, H.W.
+    birthdate: 1893
+    deathdate: 1948
+    gutenberg_agent_id: '32703'
+    url: http://www.gutenberg.org/2009/agents/32703
+    wikipedia: https://en.wikipedia.org/wiki/Hans_Waldemar_Wessolowski
+creator:
+  author:
+    agent_name: Campbell, John W., Jr. (John Wood)
+    aliases:
+    - Stuart, Don A.
+    - Campbell, John Wood
+    - Campbell, John W. (John Wood)
+    birthdate: 1910
+    deathdate: 1971
+    gutenberg_agent_id: '9112'
+    url: http://www.gutenberg.org/2009/agents/9112
+    wikipedia: https://en.wikipedia.org/wiki/John_W._Campbell
+description: ''
+gutenberg_issued: '2024-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73952'
+language: en
+pgterms:marc905: 20240511043751campbell
+pgterms:marc906: '1930'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aJamaica, NY :$bExperimenter Publications Inc., $c1930.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Space colonies -- Fiction'
+- !lcsh 'Interstellar travel -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The voice of the void
+url: http://www.gutenberg.org/ebooks/73952
